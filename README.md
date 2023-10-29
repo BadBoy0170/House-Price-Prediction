@@ -1,17 +1,13 @@
-<div align="center">
-  
 #  House Price Prediction     
-</div>
+
+[![](https://camo.githubusercontent.com/2fb0723ef80f8d87a51218680e209c66f213edf8/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6d6164652d776974682d707974686f6e2e737667)](https://python.org)
 
 <h3 align="center" style="font-size: 35px; color: #800080; font-family: Georgia;">
     <span style="color: #008080;"> Author:</span> 
     <span style="color: black;">Kunal Ranjan .</span>
 </h3>
 <p align="center">
-  <img src="https://github.com/BadBoy0170/House-Price-Prediction/blob/main/House-Price-Prediction-main/House.png" alt="Image Description" width="1000" height="400">
-</p>
-
-
+  <img src="https://github.com/BadBoy0170/House-Price-Prediction/blob/main/House-Price-Prediction-main/House.png" alt="Image Description" width="1000" height="400"> </p>
 
 ---  
 <h2> Project Objective  </h2>
@@ -76,6 +72,8 @@
   <li> Power BI</li>
 </ul>
 
+## Technology used in Project :
+<img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/pandas.png" width="300">   <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/Jupyter.png" width="200">    <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/numpy.png" width="200">   
 
 ----
 
@@ -85,19 +83,22 @@
 * All project objectives have been accomplished, including end-to-end execution from data collection and preprocessing to model development and evaluation.
 
 ----
+## Bug / Feature Request :
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/yogeshnile/Iris-Flower-Classification-using-Machine-Learning/issues/new) by including your search query and the expected result.
 
+If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/yogeshnile/Iris-Flower-Classification-using-Machine-Learning/issues/new). Please include sample queries and their corresponding results.
 
-##  Contributions 
+## Contribution
 
 Contributions are welcome! If you have any suggestions, bug fixes, or feature additions, please open an issue or submit a pull request.
 
 **BTC Wallet : OxfCaaF45156380eF33f078256d0Aa98f0b10F175b** my efforts and help it grow by buying me coffee - but only if you're definitely able to!
 
+## Connect with me! 🌐
+Known on internet as **BadBoy17**
 
-### Contact Me !
+[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" title="LinkedIn">](www.linkedin.com/in/kunal-ranjan-166b30249)      [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png" title="Github">](https://github.com/BadBoy0170)     [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" title="Instagram">](https://instagram.com/badboy__17_/) 
 
-[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" title="LinkedIn">](www.linkedin.com/in/kunal-ranjan-166b30249)      
-[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png" title="Github">](https://github.com/BadBoy0170)     
-[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" title="Instagram">](https://instagram.com/badboy__17_/) 
-
+## Email Me :e-mail:
+[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/secured-letter.png" title="Mail me">](mailto:Rajveershikhawat07@gmail.com)
 
