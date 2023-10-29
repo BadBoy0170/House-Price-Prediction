@@ -8,7 +8,7 @@
     <span style="color: black;">Kunal Ranjan .</span>
 </h3>
 <p align="center">
-  <img src="[https://media.licdn.com/dms/image/C5612AQF-4JihSLXkjw/article-cover_image-shrink_600_2000/0/1639905437564?e=2147483647&v=beta&t=dpD207ru5kxp4ZZecfHuXLr9AdenVCeu7TqP27ZLnG0](https://github.com/BadBoy0170/House-Price-Prediction/blob/main/House-Price-Prediction-main/House.png)" alt="Image Description" width="1000" height="400">
+  <img src="[https://github.com/BadBoy0170/House-Price-Prediction/blob/main/House-Price-Prediction-main/House.png]" alt="Image Description" width="1000" height="400">
 </p>
 
 
