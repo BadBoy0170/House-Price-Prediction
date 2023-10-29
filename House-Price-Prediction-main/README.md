@@ -5,7 +5,7 @@
 
 <h3 align="center" style="font-size: 35px; color: #800080; font-family: Georgia;">
     <span style="color: #008080;"> Author:</span> 
-    <span style="color: black;">Kumod Sharma .</span>
+    <span style="color: black;">Kunal Ranjan .</span>
 </h3>
 <p align="center">
   <img src="https://media.licdn.com/dms/image/C5612AQF-4JihSLXkjw/article-cover_image-shrink_600_2000/0/1639905437564?e=2147483647&v=beta&t=dpD207ru5kxp4ZZecfHuXLr9AdenVCeu7TqP27ZLnG0" alt="Image Description" width="1000" height="400">
