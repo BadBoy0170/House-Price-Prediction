@@ -1,6 +1,6 @@
 <div align="center">
   
-# ✨ House Price Prediction ✨    
+#  House Price Prediction     
 </div>
 
 <h3 align="center" style="font-size: 35px; color: #800080; font-family: Georgia;">
@@ -14,7 +14,7 @@
 
 
 ---  
-<h2>📝 Project Objective 📝 </h2>
+<h2> Project Objective  </h2>
 
 * The aim of this project is to <b>train a Machine Learning Model</b> which can predict the <b>House Sale Price</b> using relevant features.<br>
 * This project is completely based for <b>House Prices - Advanced Regression Techniques</b> Kaggle Competition.<br>
@@ -24,7 +24,7 @@
 
 
 ----
-<h2>🌟 Business Understanding🌟 </h2>
+<h2> Business Understanding </h2>
 
 1. In the dynamic real estate market, the significance of <b>accurate house price predictions</b> is increasing significantly, as they have the potential to empower homeowners, buyers, and real estate professionals by providing valuable insights into property values and facilitating informed decision-making.
     
@@ -37,21 +37,21 @@
 ----
 <h2>⚙️ Project Content ⚙️ </h2>
 
-1. <b>📚 Importing Libraries:</b> - To perform <b>Data Manipulation,Visualization & Model Building.</b><br>    
-2. <b>⏳ Loading Dataset:</b> - Load the dataset into a <b>suitable data structure using pandas.</b><br>
-3. <b>🧠 Basic Understaning of Data:</b> - Generate basic informations about the data.<br>
-4. <b>🧹 Data Preprocessing Part-1:</b> - To <b>clean, transform, and restructure</b> the data for suitable analysis.<br>
-5. <b>📊 Exploatory Data Analysis:</b> -  To  identify <b>trends, patterns, and relationships</b> among the variabels.<br>
-6. <b>📈 Feature Engineering:</b> -  To create <b>new relevant features</b> for model building.<br>
-7. <b>⚙️ Data Preprocessing Part-2:</b> - To transform data for creating more accurate & robust model.<br>
-8. <b>🎯 Model building:</b>- To build <b>predictive models</b>, using various algorithms.<br>
-9. <b>⚡️ Model evaluation:</b> - To analyze the Model performance using metrics.<br>
-10. <b>🌟 Hyper-Parameter Tunning:</b> - Optimiging model using best parameters.
-11. <b>🍀 Stacking Model:</b>- To develop a stacked model using the top-performing models.<br>
-12. <b>🎈 Conclusion:</b> - Conclude the project by summarizing the <b>key findings.</b><br>
+1. <b> Importing Libraries:</b> - To perform <b>Data Manipulation,Visualization & Model Building.</b><br>    
+2. <b> Loading Dataset:</b> - Load the dataset into a <b>suitable data structure using pandas.</b><br>
+3. <b> Basic Understaning of Data:</b> - Generate basic informations about the data.<br>
+4. <b> Data Preprocessing Part-1:</b> - To <b>clean, transform, and restructure</b> the data for suitable analysis.<br>
+5. <b> Exploatory Data Analysis:</b> -  To  identify <b>trends, patterns, and relationships</b> among the variabels.<br>
+6. <b> Feature Engineering:</b> -  To create <b>new relevant features</b> for model building.<br>
+7. <b> Data Preprocessing Part-2:</b> - To transform data for creating more accurate & robust model.<br>
+8. <b> Model building:</b>- To build <b>predictive models</b>, using various algorithms.<br>
+9. <b> Model evaluation:</b> - To analyze the Model performance using metrics.<br>
+10. <b> Hyper-Parameter Tunning:</b> - Optimiging model using best parameters.
+11. <b> Stacking Model:</b>- To develop a stacked model using the top-performing models.<br>
+12. <b> Conclusion:</b> - Conclude the project by summarizing the <b>key findings.</b><br>
 
 ----
-<h2>🎯 Project Result 🎯 </h2>
+<h2> Project Result  </h2>
 
 * The model demonstrates a <b>strong correlation (R2 Score) of 0.876</b> between predicted and actual house prices.
 * The <b>RMSE Score of 0.137</b> indicates a low average error in the model's predictions.
@@ -61,25 +61,25 @@
 
 ----
 
-<h2>🛠️ Technologies Used 🛠️  </h2>
+<h2>🛠 Technologies Used 🛠  </h2>
 <ul>
-  <li>💻 Python</li>
-  <li>💻 HTML</li>
-  <li>🐼 Pandas</li>
-  <li>📊 Matplotlib</li>
-  <li>📈 Seaborn</li>
-  <li>📈 Statistics</li>
-  <li>🤖 Scikit-learn</li>
-  <li>🧠 Machine Learning</li>
-  <li>📓 Jupyter Notebook</li>
-  <li>🔗 GitHub</li>
-  <li>📊 Power BI</li>
+  <li> Python</li>
+  <li> HTML</li>
+  <li> Pandas</li>
+  <li> Matplotlib</li>
+  <li> Seaborn</li>
+  <li> Statistics</li>
+  <li> Scikit-learn</li>
+  <li> Machine Learning</li>
+  <li> Jupyter Notebook</li>
+  <li> GitHub</li>
+  <li> Power BI</li>
 </ul>
 
 
 ----
 
-<h2>🏁 Project Status 🏁 </h2>
+<h2> Project Status  </h2>
 
 * The project has reached completion, successfully meeting the predefined goals and purposes.
 * All project objectives have been accomplished, including end-to-end execution from data collection and preprocessing to model development and evaluation.
@@ -87,15 +87,15 @@
 ----
 
 
-## 👥 Contributions 👥
+##  Contributions 
 
 Contributions are welcome! If you have any suggestions, bug fixes, or feature additions, please open an issue or submit a pull request.
 
 ---
 
-## 📧 Contact 📧
+##  Contact 
 
-For any questions or inquiries, please contact [kumod.aws@gmail.com](mailto:kumod.aws@gmail.com) or you can contact me on [LinkedIn](https://www.linkedin.com/in/kumod-sharma/).
+For any questions or inquiries, please contact [kumod.aws@gmail.com](mailto:Rajveershikhawat07@gmail.com) or you can contact me on [LinkedIn](https://www.linkedin.com/in/kumod-sharma/).
 
 ---
 
