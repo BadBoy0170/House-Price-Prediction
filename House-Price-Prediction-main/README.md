@@ -8,7 +8,7 @@
     <span style="color: black;">Kunal Ranjan .</span>
 </h3>
 <p align="center">
-  <img src="[https://github.com/BadBoy0170/House-Price-Prediction/blob/main/House-Price-Prediction-main/House.png]" alt="Image Description" width="1000" height="400">
+  <img src="https://github.com/BadBoy0170/House-Price-Prediction/blob/main/House-Price-Prediction-main/House.png" alt="Image Description" width="1000" height="400">
 </p>
 
 
@@ -35,7 +35,7 @@
 
 
 ----
-<h2>⚙️ Project Content ⚙️ </h2>
+<h2> Project Content  </h2>
 
 1. <b> Importing Libraries:</b> - To perform <b>Data Manipulation,Visualization & Model Building.</b><br>    
 2. <b> Loading Dataset:</b> - Load the dataset into a <b>suitable data structure using pandas.</b><br>
@@ -61,7 +61,7 @@
 
 ----
 
-<h2>🛠 Technologies Used 🛠  </h2>
+<h2> Technologies Used   </h2>
 <ul>
   <li> Python</li>
   <li> HTML</li>
@@ -91,14 +91,13 @@
 
 Contributions are welcome! If you have any suggestions, bug fixes, or feature additions, please open an issue or submit a pull request.
 
----
+**BTC Wallet : OxfCaaF45156380eF33f078256d0Aa98f0b10F175b** my efforts and help it grow by buying me coffee - but only if you're definitely able to!
 
-##  Contact 
 
-For any questions or inquiries, please contact [kumod.aws@gmail.com](mailto:Rajveershikhawat07@gmail.com) or you can contact me on [LinkedIn](https://www.linkedin.com/in/kumod-sharma/).
+### Contact Me !
 
----
+[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" title="LinkedIn">](www.linkedin.com/in/kunal-ranjan-166b30249)      
+[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png" title="Github">](https://github.com/BadBoy0170)     
+[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" title="Instagram">](https://instagram.com/badboy__17_/) 
 
-<h2>😊 Thank You 😊 </h2>
 
-<p>Thank you for checking out my repository! I hope you find the projects and code provided helpful and informative. If you have any questions or suggestions, please feel free to reach out.😊</p>
