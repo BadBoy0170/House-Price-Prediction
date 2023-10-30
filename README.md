@@ -57,25 +57,24 @@
 
 ----
 
-<h2> Technologies Used   </h2>
-<ul>
-  <li> Python</li>
-  <li> HTML</li>
-  <li> Pandas</li>
-  <li> Matplotlib</li>
-  <li> Seaborn</li>
-  <li> Statistics</li>
-  <li> Scikit-learn</li>
-  <li> Machine Learning</li>
-  <li> Jupyter Notebook</li>
-  <li> GitHub</li>
-  <li> Power BI</li>
-</ul>
-
 ## Technology used in Project :
 <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/pandas.png" width="300">   <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/Jupyter.png" width="200">    <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/numpy.png" width="200">   
 
 ----
+
+# Directory Tree :
+```bash
+│
+├── CODE_OF_CONDUCT.md
+├── House Price Prediction.ipynb
+├── Images
+│   ├── House.png
+├── LICENSE
+├── README.md
+
+1 directories, 4 files
+```
+
 
 <h2> Project Status  </h2>
 
